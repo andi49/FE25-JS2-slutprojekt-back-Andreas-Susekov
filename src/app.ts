@@ -5,5 +5,5 @@ export const app = express();
 app.use(express.json());
 
 app.get("/", (req, res) => {
-    res.send("Smart Todo API running 🚀")
+    res.send('API running OK')
 })
