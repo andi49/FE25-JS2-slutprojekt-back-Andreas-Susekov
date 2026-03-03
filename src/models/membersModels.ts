@@ -4,6 +4,9 @@ export interface Members {
     category: string
 }
 
+// type NewMember = Omit<Members, 'id'>;
+
+
 export type newMember = {
     id: string,
     name: string,

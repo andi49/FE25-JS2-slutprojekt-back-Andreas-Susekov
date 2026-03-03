@@ -1,20 +1,38 @@
 [
   {
-    "title": "Göra koden funka",
-    "description": "try to coden",
-    "category": "back-end",
-    "id": "147f9270-ae86-4d59-acdb-ba18a332feb7",
-    "timestamp": "Friday 20 February",
-    "status": "new",
-    "assigendto": "undefined"
+    "title": "2",
+    "description": "2",
+    "category": "BUG-TESTER",
+    "id": "1f990169-36fa-4eb5-a4f8-a7d200d659f6",
+    "timestamp": "Tuesday 3 March",
+    "status": "done",
+    "assigendto": "Carls"
   },
   {
-    "title": "Göra koden senare",
-    "description": "try to coden",
-    "category": "back-end",
-    "id": "a6f255b1-a3ab-4be2-bf6f-ae42929c0b2e",
-    "timestamp": "Friday 20 February",
+    "title": "test",
+    "description": "2testetst",
+    "category": "UX-DESIGNER",
+    "id": "960f3991-d8dc-4a84-a9e3-a1e2e427b6c5",
+    "timestamp": "Tuesday 3 March",
+    "status": "progress",
+    "assigendto": "Andi"
+  },
+  {
+    "title": "test",
+    "description": "2testetst",
+    "category": "UX-DESIGNER",
+    "id": "1eac8452-c925-4896-99c5-ab5f6d30b70c",
+    "timestamp": "Tuesday 3 March",
+    "status": "progress",
+    "assigendto": "clara"
+  },
+  {
+    "title": "2",
+    "description": "2",
+    "category": "BACKEND",
+    "id": "ff69805c-63a1-488b-83ee-7655f7f10f70",
+    "timestamp": "Tuesday 3 March",
     "status": "new",
-    "assignedto": "undefined"
+    "assigendto": "No one is assigned to the task"
   }
 ]

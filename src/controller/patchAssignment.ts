@@ -1,12 +1,18 @@
 import { getAllAssignments } from "./requestAssignment"
+import {writeAssignment} from "./sendDataAssignmnet"
 
-const getAssigendment = async (assigendto: string) => {
+export const updateAssignment = async (id:string, assigendto:string, status:string) => {
     try{
         const assignment = await getAllAssignments();
-        const index = assignment.findIndex((assig: any) => assig.assigendto === assigendto);
-    
+        const index = assignment.findIndex((assignment: any) => assignment.id === id);
+        
         if (index === -1) return;
-        else return assignment[index];
+        else {
+            assignment[index].assigendto = assigendto;
+            assignment[index].status = status;
+            await writeAssignment(assignment);
+            return assignment[index];
+        }
     }
         catch (error) {
         throw error;

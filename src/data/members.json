@@ -1,17 +1,52 @@
 [
   {
-    "id": "ijfiejofiofwofj",
-    "name": "The Goat",
-    "category": "back-end"
+    "name": "Andreas",
+    "category": "BACKEND",
+    "id": "1b9992f4-8ce7-4cdd-b52b-4cbe8ae17151"
   },
   {
-    "id": "5807f7c9-5f46-4ac8-89ac-0dbe49c91b8e",
-    "name": "The Goat",
-    "category": "back-end"
-  },
-  {
-    "name": "lissa ",
+    "name": "Andi",
     "category": "FRONTEND",
-    "id": "40def9c1-a00d-490f-96b5-2eabba39b19e"
+    "id": "b47d6a71-b07b-41bf-a603-66fb2beafee8"
+  },
+  {
+    "name": "Carls",
+    "category": "BUG-TESTER",
+    "id": "b41f191e-e7ba-4e5c-a694-399f98a0a63e"
+  },
+  {
+    "name": " Andi",
+    "category": "BACKEND",
+    "id": "5bbd2816-953f-40ba-9865-a569cf5a0030"
+  },
+  {
+    "name": "Andi",
+    "category": "UX-DESIGNER",
+    "id": "355c813b-fd2f-48c3-9fc2-a34897b249aa"
+  },
+  {
+    "name": "Carl",
+    "category": "BACKEND",
+    "id": "c08a0d1e-a066-409a-b0c4-5dd25d0b4ec6"
+  },
+  {
+    "name": "Carl",
+    "category": "BACKEND",
+    "id": "914d28f1-b2ce-4927-a94a-4e36c068df55"
+  },
+  {
+    "name": "cahrles",
+    "category": "BUG-TESTER",
+    "id": "b6e52ea2-70f3-45ed-aa04-2a1a046601c0"
+  },
+  {
+    "name": "clara",
+    "category": "UX-DESIGNER",
+    "id": "1afb8a60-5c14-453e-b1ad-3096a4d9dd4a"
+  },
+  {
+    "name": "Andreas",
+    "category": "BUG-TESTER",
+    "id": "6ed5bf3b-f083-4e14-97a3-8a7cae20f0af"
   }
 ]
