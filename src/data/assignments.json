@@ -1,38 +1,38 @@
 [
   {
-    "title": "2",
-    "description": "2",
-    "category": "BUG-TESTER",
-    "id": "1f990169-36fa-4eb5-a4f8-a7d200d659f6",
-    "timestamp": "Tuesday 3 March",
-    "status": "done",
-    "assigendto": "Carls"
-  },
-  {
-    "title": "test",
-    "description": "2testetst",
+    "title": "1",
+    "description": "1",
     "category": "UX-DESIGNER",
-    "id": "960f3991-d8dc-4a84-a9e3-a1e2e427b6c5",
-    "timestamp": "Tuesday 3 March",
-    "status": "progress",
-    "assigendto": "Andi"
-  },
-  {
-    "title": "test",
-    "description": "2testetst",
-    "category": "UX-DESIGNER",
-    "id": "1eac8452-c925-4896-99c5-ab5f6d30b70c",
-    "timestamp": "Tuesday 3 March",
+    "id": "6b5b08c6-717d-4d36-8e2e-921462c7986a",
+    "timestamp": "Thursday 5 March",
     "status": "progress",
     "assigendto": "clara"
   },
   {
-    "title": "2",
-    "description": "2",
-    "category": "BACKEND",
-    "id": "ff69805c-63a1-488b-83ee-7655f7f10f70",
-    "timestamp": "Tuesday 3 March",
-    "status": "new",
-    "assigendto": "No one is assigned to the task"
+    "title": "1",
+    "description": "1",
+    "category": "UX-DESIGNER",
+    "id": "86adb6f5-5ed5-4f3b-a1af-41e96203c34b",
+    "timestamp": "Thursday 5 March",
+    "status": "progress",
+    "assigendto": "clara"
+  },
+  {
+    "title": "1",
+    "description": "1",
+    "category": "UX-DESIGNER",
+    "id": "a2e66fcb-7559-4478-8862-7fe8802b9a7e",
+    "timestamp": "Thursday 5 March",
+    "status": "progress",
+    "assigendto": "clara"
+  },
+  {
+    "title": "1",
+    "description": "1",
+    "category": "UX-DESIGNER",
+    "id": "8cfedb4c-b540-47c0-b1f7-3dd3901ce57b",
+    "timestamp": "Thursday 5 March",
+    "status": "progress",
+    "assigendto": "Andi"
   }
 ]

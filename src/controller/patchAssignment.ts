@@ -1,10 +1,11 @@
+import { Assignments } from "../models/assignmentModels";
 import { getAllAssignments } from "./requestAssignment"
 import {writeAssignment} from "./sendDataAssignmnet"
 
 export const updateAssignment = async (id:string, assigendto:string, status:string) => {
     try{
         const assignment = await getAllAssignments();
-        const index = assignment.findIndex((assignment: any) => assignment.id === id);
+        const index = assignment.findIndex((assignment: Assignments) => assignment.id === id);
         
         if (index === -1) return;
         else {
