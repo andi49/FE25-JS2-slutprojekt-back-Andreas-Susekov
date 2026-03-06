@@ -1,0 +1,9 @@
+# Projekt
+
+## Installation
+
+Om `dist` krånglar och datum inte visas korrekt behöver du installera **dayjs**:
+
+npm install dayjs
+
+Sedan npm run dev

@@ -9,21 +9,12 @@
     "assigendto": "Pablo"
   },
   {
-    "title": "Designa Interface",
-    "description": "Fixa interface för mobil application ",
-    "category": "UX-DESIGNER",
-    "id": "3963bd96-c9d6-4f9c-95fd-07bfea667b44",
-    "timestamp": "Friday 5 March",
-    "status": "progress",
-    "assigendto": "Pablo"
-  },
-  {
     "title": "Testa hemsidan",
     "description": "Testa hela hemsidan för error",
     "category": "BUG-TESTER",
     "id": "70315f60-deaf-49e4-9a62-b2aa4b1c747b",
     "timestamp": "Friday 6 March",
-    "status": "progress",
+    "status": "done",
     "assigendto": "Pablo"
   },
   {
@@ -32,7 +23,25 @@
     "category": "FRONTEND",
     "id": "a51ec657-3449-4bec-af67-682704aee328",
     "timestamp": "Friday 6 March",
-    "status": "progress",
+    "status": "done",
     "assigendto": "Pablo"
+  },
+  {
+    "title": "Fixa drag and drop",
+    "description": "test",
+    "category": "FRONTEND",
+    "id": "4a9e7878-6b70-4123-8008-904feef478a8",
+    "timestamp": "Friday 6 March",
+    "status": "done",
+    "assigendto": "Pablo"
+  },
+  {
+    "title": "Fixa drag and drop",
+    "description": "test",
+    "category": "FRONTEND",
+    "id": "a2e04aa1-f945-45e9-b5f6-c63ea36b8be0",
+    "timestamp": "Friday 6 March",
+    "status": "new",
+    "assigendto": "No one is assigned to the task"
   }
 ]
