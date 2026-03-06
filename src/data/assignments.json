@@ -1,38 +1,38 @@
 [
   {
-    "title": "1",
-    "description": "1",
-    "category": "UX-DESIGNER",
-    "id": "6b5b08c6-717d-4d36-8e2e-921462c7986a",
-    "timestamp": "Thursday 5 March",
-    "status": "progress",
-    "assigendto": "clara"
+    "title": "Bygga API",
+    "description": "Skapa en fungerade api ",
+    "category": "BACKEND",
+    "id": "002bf8b2-7fc4-4463-b746-1c8a12d7049b",
+    "timestamp": "Friday 3 March",
+    "status": "done",
+    "assigendto": "Pablo"
   },
   {
-    "title": "1",
-    "description": "1",
+    "title": "Designa Interface",
+    "description": "Fixa interface för mobil application ",
     "category": "UX-DESIGNER",
-    "id": "86adb6f5-5ed5-4f3b-a1af-41e96203c34b",
-    "timestamp": "Thursday 5 March",
+    "id": "3963bd96-c9d6-4f9c-95fd-07bfea667b44",
+    "timestamp": "Friday 5 March",
     "status": "progress",
-    "assigendto": "clara"
+    "assigendto": "Pablo"
   },
   {
-    "title": "1",
-    "description": "1",
-    "category": "UX-DESIGNER",
-    "id": "a2e66fcb-7559-4478-8862-7fe8802b9a7e",
-    "timestamp": "Thursday 5 March",
+    "title": "Testa hemsidan",
+    "description": "Testa hela hemsidan för error",
+    "category": "BUG-TESTER",
+    "id": "70315f60-deaf-49e4-9a62-b2aa4b1c747b",
+    "timestamp": "Friday 6 March",
     "status": "progress",
-    "assigendto": "clara"
+    "assigendto": "Pablo"
   },
   {
-    "title": "1",
-    "description": "1",
-    "category": "UX-DESIGNER",
-    "id": "8cfedb4c-b540-47c0-b1f7-3dd3901ce57b",
-    "timestamp": "Thursday 5 March",
+    "title": "Bygga Frontend",
+    "description": "Fixa klart Frontend",
+    "category": "FRONTEND",
+    "id": "a51ec657-3449-4bec-af67-682704aee328",
+    "timestamp": "Friday 6 March",
     "status": "progress",
-    "assigendto": "Andi"
+    "assigendto": "Pablo"
   }
 ]

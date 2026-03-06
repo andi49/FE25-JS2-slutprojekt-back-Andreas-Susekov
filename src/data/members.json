@@ -1,52 +1,22 @@
 [
   {
-    "name": "Andreas",
+    "name": "Pablo",
     "category": "BACKEND",
-    "id": "1b9992f4-8ce7-4cdd-b52b-4cbe8ae17151"
+    "id": "21e5a366-3aa7-48ef-b2fe-5a83d754867b"
   },
   {
-    "name": "Andi",
+    "name": "Carlos",
+    "category": "UX-DESIGNER",
+    "id": "2d94b8d8-b3d3-4d60-9bcd-ef65d2881b12"
+  },
+  {
+    "name": "Marko",
+    "category": "BUG-TESTER",
+    "id": "d206247a-4ea0-4a84-866a-6712fcbaa515"
+  },
+  {
+    "name": "The Goat",
     "category": "FRONTEND",
-    "id": "b47d6a71-b07b-41bf-a603-66fb2beafee8"
-  },
-  {
-    "name": "Carls",
-    "category": "BUG-TESTER",
-    "id": "b41f191e-e7ba-4e5c-a694-399f98a0a63e"
-  },
-  {
-    "name": " Andi",
-    "category": "BACKEND",
-    "id": "5bbd2816-953f-40ba-9865-a569cf5a0030"
-  },
-  {
-    "name": "Andi",
-    "category": "UX-DESIGNER",
-    "id": "355c813b-fd2f-48c3-9fc2-a34897b249aa"
-  },
-  {
-    "name": "Carl",
-    "category": "BACKEND",
-    "id": "c08a0d1e-a066-409a-b0c4-5dd25d0b4ec6"
-  },
-  {
-    "name": "Carl",
-    "category": "BACKEND",
-    "id": "914d28f1-b2ce-4927-a94a-4e36c068df55"
-  },
-  {
-    "name": "cahrles",
-    "category": "BUG-TESTER",
-    "id": "b6e52ea2-70f3-45ed-aa04-2a1a046601c0"
-  },
-  {
-    "name": "clara",
-    "category": "UX-DESIGNER",
-    "id": "1afb8a60-5c14-453e-b1ad-3096a4d9dd4a"
-  },
-  {
-    "name": "Andreas",
-    "category": "BUG-TESTER",
-    "id": "6ed5bf3b-f083-4e14-97a3-8a7cae20f0af"
+    "id": "9053a821-a69c-491e-829b-babcc8ea814b"
   }
 ]
